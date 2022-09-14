@@ -1,1 +1,7 @@
 What makes you excited about programming?
+<<<<<<< HEAD
+=======
+I enjoy having new problems to solve every day.
+
+What is your favorite animal and why?
+>>>>>>> my-new-branch
